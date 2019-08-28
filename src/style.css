@@ -1,1 +1,134 @@
-/* Acá va tu código */
+/*paginaindexhtml*/
+body {
+    text-align:center;
+    font-family: Helvetica;
+    color:#e4376b;
+    background-image: url("https://wallpaperplay.com/walls/full/7/f/f/144508.jpg");
+    font-size: 40px;
+  }
+  /*paginaindexhtml*/
+  h1  {
+    text-align:center;
+    font-family: serif;
+    font-size:100px;
+    font-weight:700;
+    color: #c3cc3e;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    border: none;
+    text-align:center;
+
+   }
+   
+   #textoCuadro {
+   font-size: large;
+   color:  #edf77b;
+   
+   }
+
+   #botonIngreso    {
+
+    display: block;
+    width: 200px;
+    height: 60px;
+    padding: 0px 0 0 0;
+    margin: 0 auto;
+    background: rgb(77, 70, 180);
+    font: Sans-Serif;
+    text-align: center;
+    color: black;
+  
+
+   }
+
+   form {
+
+    width: 300px;
+    margin: auto;
+    margin-top:auto;
+    background: rgb(1, 46, 42);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+
+   }
+
+
+   h2{
+
+    color: rgb(218, 62, 75);
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+
+p{
+
+color: #c3cc3e;
+font-size: medium;
+
+
+}
+
+#ingresoNombre  {
+
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+    text-align:center;
+}
+
+#llaveHtml {
+
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+    text-align:center;
+
+}
+
+#botonCifrado   {
+
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+    text-align:center;
+    
+}
+
+#botonDescifrado    {
+
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+    text-align:center;
+
+}
+
+#paginaTres     {
+
+    text-align:center;
+    font-family: Helvetica;
+    color:#e4376b;
+    font-size: 40px;
+
+
+
+
+}
